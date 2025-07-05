@@ -278,7 +278,7 @@ export default function HomePage() {
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Get In Touch</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Ready to discuss your project? Contact us today and let's explore how we can help bring your technology
+              Ready to discuss your project? Contact us today and let&#39;s explore how we can help bring your technology
               vision to life.
             </p>
           </div>

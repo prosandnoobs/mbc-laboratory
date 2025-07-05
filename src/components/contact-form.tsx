@@ -37,7 +37,7 @@ export default function ContactForm() {
         <CardContent className="p-8 text-center">
           <CheckCircle className="h-16 w-16 text-green-600 mx-auto mb-4" />
           <h3 className="text-xl font-semibold text-green-800 mb-2">Message Sent Successfully!</h3>
-          <p className="text-green-600">Thank you for contacting us. We'll get back to you within 24 hours.</p>
+          <p className="text-green-600">Thank you for contacting us. We&#39;ll get back to you within 24 hours.</p>
         </CardContent>
       </Card>
     )
@@ -47,7 +47,7 @@ export default function ContactForm() {
     <Card className="bg-white shadow-lg">
       <CardHeader>
         <CardTitle className="text-2xl text-gray-900">Send us a Message</CardTitle>
-        <CardDescription>Fill out the form below and we'll get back to you as soon as possible.</CardDescription>
+        <CardDescription>Fill out the form below and we&#39;ll get back to you as soon as possible.</CardDescription>
       </CardHeader>
       <CardContent>
         <form onSubmit={handleSubmit} className="space-y-6">
