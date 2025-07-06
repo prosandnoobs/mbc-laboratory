@@ -295,11 +295,11 @@ export default function HomePage() {
                     <div>
                       <h4 className="font-semibold text-gray-900">Address</h4>
                       <p className="text-gray-600">
-                        Technology Park Building
+                        TULT 13.04
                         <br />
-                        Jl. Innovation Boulevard No. 123
+                        Telkom University
                         <br />
-                        Jakarta 12345, Indonesia
+                        Bandung, Indonesia
                       </p>
                     </div>
                   </div>
@@ -309,8 +309,8 @@ export default function HomePage() {
                       <Phone className="h-6 w-6 text-green-600" />
                     </div>
                     <div>
-                      <h4 className="font-semibold text-gray-900">Phone</h4>
-                      <p className="text-gray-600">+62 21 1234 5678</p>
+                      <h4 className="font-semibold text-gray-900">Line</h4>
+                      <p className="text-gray-600">@sok8073r</p>
                     </div>
                   </div>
 
@@ -320,7 +320,7 @@ export default function HomePage() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-900">Email</h4>
-                      <p className="text-gray-600">info@mbclaboratory.com</p>
+                      <p className="text-gray-600">mbclab1234@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -477,9 +477,9 @@ export default function HomePage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>Jakarta, Indonesia</li>
-                <li>+62 21 1234 5678</li>
-                <li>info@mbclaboratory.com</li>
+                <li>Bandung, Indonesia</li>
+                <li>@sok8073r</li>
+                <li>mbclab1234@gmail.com</li>
               </ul>
             </div>
           </div>
